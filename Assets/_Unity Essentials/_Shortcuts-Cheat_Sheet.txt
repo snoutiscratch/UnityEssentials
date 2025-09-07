@@ -18,3 +18,5 @@ Scene view tools shortcuts:
 Miscellaneous shortcuts:
 - Undo: Ctrl+Z (macOS: Cmd+Z)
 - Save: Ctrl+S (macOS: Cmd+S)
+
+The view gizmo on the top has an optional background. Right click it, and then show background to view it.
